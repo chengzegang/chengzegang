@@ -2,7 +2,7 @@
 
 ### I'm am currently and may be always working on Deep Learning things.
 
-### > "For good and for all."
+> ### "For good and for all."
 
 
 ### I'm from <img src="Flag_of_China.png" alt="drawing" width="20"/>
