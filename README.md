@@ -1,6 +1,6 @@
 ## Hi there, my name is Zegang Cheng, if dat's hard for ya to pronunce then call me Hooley (no why) 👋
 
-### I'm am currently and may will be always working on Deep Learning things.
+### I'm am currently and may be always working on Deep Learning things.
 
 ### > "For good and for all."
 
