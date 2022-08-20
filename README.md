@@ -1,4 +1,4 @@
-## Hi there, My name is Zegang Cheng, and you can call me Hooley (no why) 👋
+## Hi there, my name is Zegang Cheng, if dat's hard for ya to pronunce then call me Hooley (no why) 👋
 
 ### I'm am currently and maybe always working on Deep Learning things.
 
