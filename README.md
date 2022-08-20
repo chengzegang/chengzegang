@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Zegang Cheng, and you can call me Hooley (no why) 👋
 
 <!--
 **chengzegang/chengzegang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm am currently and maybe always working on Deep Learning things.
+
+> For good and for all.
+
+
+I am from :cn:
